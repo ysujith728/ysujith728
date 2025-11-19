@@ -20,7 +20,7 @@ I'm <b>Yalahmanchi Sri Sai Sujith</b>, a passionate <b>B.Tech CSE</b> student at
 <b>Amrita Vishwa Vidyapeetham</b>.  
 <br><br>
 I’m exploring <b>Machine Learning</b>, <b>AWS</b>, and <b>Google Cloud</b>, and aiming to become a 
-<b>Software Engineer in a top MNC</b>.  
+<b>Software Engineer</b>.  
 </p>
 
 <br>
