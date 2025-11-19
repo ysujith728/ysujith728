@@ -130,12 +130,6 @@ I’m exploring <b>Machine Learning</b>, <b>AWS</b>, and <b>Google Cloud</b>, an
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ysujith728&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<br>
 <hr>
 <br>
 
