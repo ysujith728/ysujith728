@@ -3,7 +3,6 @@
 <div align="center">
   <h1>👋 Hey there, I'm Sri Sai Sujith</h1>
   <h3>🎓 Computer Science Engineering Student</h3>
-  
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=700&lines=Turning+Ideas+Into+Code,+and+Code+Into+Impact;B.Tech+CSE+Student+%40+Amrita;Exploring+AI,+Cloud,+and+Innovation;Always+Learning,+Always+Building" 
     alt="Typing SVG" 
@@ -17,11 +16,11 @@
 ## 🚀 About Me
 
 <p>
-I'm <b>Yalahmanchi Sri Sai Sujith</b>, a dedicated <b>B.Tech CSE</b> student at 
+I'm <b>Yalahmanchi Sri Sai Sujith</b>, a passionate <b>B.Tech CSE</b> student at 
 <b>Amrita Vishwa Vidyapeetham</b>.  
 <br><br>
-I’m passionate about <b>Machine Learning, Cloud Computing</b>, and building solutions that make an impact.  
-Focused on growing my skills to become a <b>Software Engineer at a top MNC</b>.
+I’m exploring <b>Machine Learning</b>, <b>AWS</b>, and <b>Google Cloud</b>, and aiming to become a 
+<b>Software Engineer in a top MNC</b>.  
 </p>
 
 <br>
@@ -33,22 +32,32 @@ Focused on growing my skills to become a <b>Software Engineer at a top MNC</b>.
 <div align="center">
   
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,html,css,matlab" alt="Languages" />
   
   <br><br>
   
-  <h3>Databases</h3>
+  <h3>Databases & Graph DB</h3>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" 
+         alt="Neo4j" width="48" height="48" 
+         style="background-color:white; padding:4px; border-radius:8px;" />
+  </picture>
+  
   <br><br>
-
-  <h3>Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp" alt="Cloud" />
-
+  
+  <h3>Frameworks & UI</h3>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Frameworks" />
+  
   <br><br>
-
+  
+  <h3>Hardware / Embedded</h3>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Embedded" />
+  
+  <br><br>
+  
   <h3>Tools & Editors</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,jupyter" alt="Tools" />
 
 </div>
 
