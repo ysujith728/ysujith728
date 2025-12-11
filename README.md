@@ -1,113 +1,111 @@
-<!-- ✨ PREMIUM DARK-NEON PROFILE FOR SRI SAI SUJITH ✨ -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Sri+Sai+Sujith+👋;Java+Full+Stack+Developer+in+Progress;CSE+Student+Learning+Web+%26+Cloud;Always+Improving." alt="Typing Animation">
-</h1>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%20Developer-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Learner-8A2BE2?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20%26%20Cloud%20Student-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ysujith728&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api?username=ysujith728&theme=omni&hide_title=true&show_icons=true&include_all_commits=true" />
-  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ysujith728&layout=compact&theme=omni" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ysujith728&theme=neon-dark&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ysujith728?tab=followers">
-    <img src="https://custom-icon-badges.herokuapp.com/github/followers/ysujith728?color=00E5FF&labelColor=1A1A1A&style=for-the-badge&logo=person-add&label=Followers" />
-  </a>
-  <a href="https://github.com/ysujith728?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=FFD700&labelColor=1A1A1A&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ysujith728" />
-  </a>
-</p>
-
----
-
-## 🔥 About Me (Simple)
-- Java full-stack developer in progress  
-- Studying CSE @ Amrita  
-- Learning Java, Web Development, Databases, and Cloud  
-- Interested in backend, frontend, and deployment  
-- Improving skills step by step  
-
----
-
-# 🛠️ Tech Stack (Dark Neon)
+<!-- 🌌 FULL PROFESSIONAL GITHUB PROFILE README (SRI SAI SUJITH) -->
 
 <div align="center">
-
-### Languages  
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,haskell&theme=dark" />
-
-### Web  
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
-
-### Backend + Database  
-<img src="https://skillicons.dev/icons?i=spring,mysql,neo4j,nodejs&theme=dark" />
-
-### Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,figma&theme=dark" />
-
+  <h1>👋 Hey there, I'm Sri Sai Sujith</h1>
+  <h3>🎓 Computer Science Engineering Student</h3>
+  
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=700&lines=Turning+Ideas+Into+Code,+and+Code+Into+Impact;B.Tech+CSE+Student+%40+Amrita;Exploring+AI,+Cloud,+and+Innovation;Always+Learning,+Always+Building"
+    alt="Typing SVG"
+  />
 </div>
 
----
+<br><hr><br>
 
-# ⚡ Tech Showcase
+## 🚀 About Me
+
+<p>I'm <b>Yalahmanchi Sri Sai Sujith</b>, a passionate <b>B.Tech CSE</b> student at <b>Amrita Vishwa Vidyapeetham</b>. <br><br>I'm exploring <b>Machine Learning</b>, <b>AWS</b>, and <b>Google Cloud</b>, and aiming to become a <b>Software Engineer</b>. I love building projects, learning new technologies, and contributing to open source.</p>
+
+<br><hr><br>
+
+## 💻 Tech Stack
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="120"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="75"/><br>Java</td>
-<td align="center" width="120"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="75"/><br>React</td>
-<td align="center" width="120"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="75"/><br>TypeScript</td>
-<td align="center" width="120"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="75"/><br>MySQL</td>
-<td align="center" width="120"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="75"/><br>AWS</td>
-<td align="center" width="120"> <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="75"/><br>Node.js</td>
-</tr>
-</table>
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,haskell,html,css,matlab" alt="Languages" />
+
+  <br><br>
+
+  <h3>Databases & Graph DB</h3>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
+      alt="Neo4j" width="48" height="48"
+      style="background-color:white; padding:4px; border-radius:8px;" />
+  </picture>
+
+  <br><br>
+
+  <h3>Frameworks & UI</h3>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Frameworks" />
+
+  <br><br>
+
+  <h3>Hardware & OS</h3>
+  <img src="https://skillicons.dev/icons?i=arduino,ubuntu" alt="Hardware & OS" />
+
+  <br><br>
+
+  <h3>Tools & Editors</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,jupyter" alt="Tools" />
 </div>
 
----
+<br><hr><br>
 
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ysujith728/snk/output/github-contribution-grid-snake.svg" />
-</p>
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <!-- 🔥 GITHUB STREAK -->
+  <img
+    src="https://streak-stats.demolab.com?user=ysujith728&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=C9D1D9"
+    alt="GitHub Streak"
+    width="49%"
+  />
+  
+  <!-- 💡 TOP LANGUAGES -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysujith728&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117"
+    alt="Top Languages"
+    width="49%"
+  />
 
-# 🌐 Contact
-<p align="center">
-  <a href="mailto:yalahmanchi.sujith@gmail.com"><img width="35px" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sri-sai-sujith-yalahmanchi-3bb826217"><img width="35px" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ysujith728"><img width="35px" src="https://i.imgur.com/mVm29vK.png"/></a>
-</p>
+  <br><br>
 
----
+  <!-- 📈 PROFILE SUMMARY -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysujith728&theme=tokyonight"
+    alt="Profile Summary"
+    width="100%"
+  />
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{ysujith728}/count.svg" />
-</p>
+  <br><br>
+
+  <!-- ⚡ CONTRIBUTION GRAPH -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ysujith728&bg_color=0D1117&color=38BDF8&line=38BDF8&point=1F6FEB&area=true&hide_border=true"
+    width="100%"
+    alt="Sujith Contribution Graph"
+  />
+</div>
+
+<br><hr><br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sri-sai-sujith-yalahmanchi-3bb826217" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yalahmanchi.sujith@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ysujith728" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br><hr><br>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/ysujith728">ysujith728</a> — Thanks for visiting!</i>
+</div>
