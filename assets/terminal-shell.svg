@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18"/>
+      <stop offset="50%" stop-color="#0a1224"/>
+      <stop offset="100%" stop-color="#050811"/>
+    </linearGradient>
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="cursor-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes fadeInLine {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .cursor {
+      animation: blink 1s infinite;
+      fill: #00f2fe;
+      filter: url(#cursor-glow);
+    }
+    .line-1 { animation: fadeInLine 0.5s ease forwards 0.2s; opacity: 0; }
+    .line-2 { animation: fadeInLine 0.5s ease forwards 0.8s; opacity: 0; }
+    .line-3 { animation: fadeInLine 0.5s ease forwards 1.4s; opacity: 0; }
+    .line-4 { animation: fadeInLine 0.5s ease forwards 2.0s; opacity: 0; }
+    .line-5 { animation: fadeInLine 0.5s ease forwards 2.6s; opacity: 0; }
+    .line-6 { animation: fadeInLine 0.5s ease forwards 3.2s; opacity: 0; }
+    .line-7 { animation: fadeInLine 0.5s ease forwards 3.8s; opacity: 0; }
+    .line-8 { animation: fadeInLine 0.5s ease forwards 4.4s; opacity: 0; }
+    .line-9 { animation: fadeInLine 0.5s ease forwards 5.0s; opacity: 0; }
+
+    .prompt-user { fill: #38bdf8; font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; font-weight: 700; }
+    .prompt-dir { fill: #818cf8; font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; font-weight: 600; }
+    .prompt-cmd { fill: #f1f5f9; font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; font-weight: 500; }
+    .term-out-bold { fill: #00f2fe; font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; font-weight: 700; }
+    .term-out { fill: #94a3b8; font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 12.5px; font-weight: 400; }
+    .term-tag { fill: #10b981; font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 12.5px; font-weight: 600; }
+    .term-purple { fill: #c084fc; font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 12.5px; font-weight: 600; }
+  </style>
+
+  <!-- Window Container -->
+  <rect x="2" y="2" width="876" height="336" rx="12" fill="url(#term-bg)" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Window Top Bar -->
+  <path d="M 2 14 Q 2 2 14 2 L 866 2 Q 878 2 878 14 L 878 38 L 2 38 Z" fill="#0c1220"/>
+  <line x1="2" y1="38" x2="878" y2="38" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Window Control Buttons -->
+  <circle cx="22" cy="20" r="5.5" fill="#ef4444"/>
+  <circle cx="40" cy="20" r="5.5" fill="#f59e0b"/>
+  <circle cx="58" cy="20" r="5.5" fill="#10b981"/>
+
+  <!-- Tab Title -->
+  <rect x="180" y="8" width="520" height="24" rx="6" fill="#131c31" stroke="#1e293b" stroke-width="0.8"/>
+  <text x="440" y="24" fill="#94a3b8" font-family="'Fira Code', monospace" font-size="11.5" text-anchor="middle" font-weight="600" letter-spacing="0.5">
+    ⚡ zsh — sujith@developer-core: ~/workspace (active)
+  </text>
+
+  <!-- Terminal Content Lines -->
+  <!-- Line 1: whoami -->
+  <g class="line-1">
+    <text x="25" y="66" class="prompt-user">sujith@core</text>
+    <text x="118" y="66" class="prompt-dir">:[~]</text>
+    <text x="156" y="66" class="prompt-cmd">$ whoami</text>
+  </g>
+
+  <!-- Line 2: Output -->
+  <g class="line-2">
+    <text x="45" y="90" class="term-out-bold">▸ Sri Sai Sujith Yalahmanchi</text>
+    <text x="280" y="90" class="term-out">(Full-Stack Developer • AI Engineer • Agent Builder)</text>
+  </g>
+
+  <!-- Line 3: role & education -->
+  <g class="line-3">
+    <text x="25" y="122" class="prompt-user">sujith@core</text>
+    <text x="118" y="122" class="prompt-dir">:[~]</text>
+    <text x="156" y="122" class="prompt-cmd">$ sysinfo --stack</text>
+  </g>
+
+  <!-- Line 4: Stack output -->
+  <g class="line-4">
+    <text x="45" y="146" class="term-tag">CORE_LANGS</text>
+    <text x="145" y="146" class="term-out">Java (Spring Boot) • Python (FastAPI) • TypeScript (React) • C / C++</text>
+  </g>
+
+  <!-- Line 5: Agent status -->
+  <g class="line-5">
+    <text x="45" y="172" class="term-purple">AI_ENG_OPS</text>
+    <text x="145" y="172" class="term-out">LangGraph State Machines • Multi-Tool ReAct Loops • Production RAG (FAISS)</text>
+  </g>
+
+  <!-- Line 6: Active mission -->
+  <g class="line-6">
+    <text x="25" y="204" class="prompt-user">sujith@core</text>
+    <text x="118" y="204" class="prompt-dir">:[~]</text>
+    <text x="156" y="204" class="prompt-cmd">$ cat ~/mission.status</text>
+  </g>
+
+  <!-- Line 7: Mission Output -->
+  <g class="line-7">
+    <text x="45" y="228" class="term-out-bold">CURRENT_PROJECTS</text>
+    <text x="200" y="228" class="term-out">LP-SLAM-TECC • NYC Taxi Agent • SafeRoute-CDS • GlobeRadio • Zentra</text>
+  </g>
+
+  <!-- Line 8: Philosophy -->
+  <g class="line-8">
+    <text x="45" y="254" class="term-tag">ENGINEERING_DNA</text>
+    <text x="200" y="254" class="term-out">Build Real Systems → Master Internal Mechanics → Ship Value Continuously</text>
+  </g>
+
+  <!-- Line 9: Live prompt with blinking cursor -->
+  <g class="line-9">
+    <text x="25" y="292" class="prompt-user">sujith@core</text>
+    <text x="118" y="292" class="prompt-dir">:[~]</text>
+    <text x="156" y="292" class="prompt-cmd">$</text>
+    <rect x="172" y="278" width="9" height="17" rx="2" class="cursor"/>
+  </g>
+</svg>

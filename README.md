@@ -54,12 +54,32 @@
 <br>
 
 <!-- ================================================================= -->
-<!-- TERMINAL IDENTITY                                                 -->
+<!-- DYNAMIC COMMAND SHELL                                             -->
 <!-- ================================================================= -->
 
 <table width="100%">
 <tr>
-<td bgcolor="#090d16" style="border: 1px solid #1e293b; border-radius: 10px; padding: 18px 24px;">
+<td bgcolor="#080c16" style="border: 1px solid #1e293b; border-radius: 12px; padding: 20px 24px;">
+
+<!-- Terminal Window Top Bar -->
+<div align="left" style="font-family: 'Fira Code', monospace; font-size: 13px; color: #64748b; margin-bottom: 12px;">
+  <span style="color:#ef4444; font-size: 14px;">●</span>&nbsp;
+  <span style="color:#f59e0b; font-size: 14px;">●</span>&nbsp;
+  <span style="color:#10b981; font-size: 14px;">●</span>&nbsp;&nbsp;&nbsp;
+  <b style="color:#94a3b8;">zsh — sujith@developer-core: ~/workspace (active)</b>
+</div>
+
+<!-- Live Typing Dynamic Shell -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2400&pause=1000&color=38BDF8&background=0D111700&center=false&vCenter=false&multiline=true&width=760&height=220&lines=sujith%40core%3A~%24+whoami;%E2%96%B8+Sri+Sai+Sujith+Yalahmanchi+(Full-Stack+Developer+%E2%80%A2+AI+Engineer);sujith%40core%3A~%24+sysinfo+--focus;%E2%96%B8+AI+Agents+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+Java+Backend+%E2%80%A2+Modern+Web;sujith%40core%3A~%24+cat+~/mission.status;%E2%96%B8+Engineering+autonomous+multi-tool+agentic+systems+%26+scalable+APIs;sujith%40core%3A~%24+cat+~/philosophy.txt;%E2%96%B8+Build+Real+Things+%E2%86%92+Master+Internals+%E2%86%92+Ship+Value"
+    alt="Dynamic Command Shell"
+    width="100%"
+  />
+</p>
+
+<details>
+<summary><b style="color: #38bdf8; cursor: pointer;">🔍 View Plain Text Terminal Output</b></summary>
 
 ```bash
 ┌──(sujith㉿developer-core)-[~]
@@ -86,6 +106,8 @@ Autonomous multi-tool agents, high-throughput APIs, and interactive full-stack p
 └─$ philosophy
 Build real systems → Master core mechanics → Optimize bottlenecks → Ship value
 ```
+
+</details>
 
 </td>
 </tr>
@@ -225,7 +247,7 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
 <br>
 
 <!-- ================================================================= -->
-<!-- TECH STACK                                                        -->
+<!-- TECH STACK — UNIFORM ROUNDED DARK ICON SYSTEM                     -->
 <!-- ================================================================= -->
 
 ## 💻 Tech Stack
@@ -234,7 +256,6 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,haskell,matlab,bash,html,css&theme=dark&perline=6" alt="Languages" />
 </p>
-
 <p align="center">
   <code>Java</code> &bull;
   <code>Python</code> &bull;
@@ -250,156 +271,124 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
 
 ---
 
-### 🎨 Frontend Architecture
+### 🎨 Frontend Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,threejs&theme=dark&perline=8" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,threejs,redux,html,css&theme=dark&perline=8" alt="Frontend Stack" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/React_18%2F19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Three.js_3D-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-</p>
-
----
-
-### ⚙️ Backend Systems & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,prisma&theme=dark&perline=6" alt="Backend Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-0055FF?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <code>React 18/19</code> &bull;
+  <code>Next.js</code> &bull;
+  <code>TypeScript</code> &bull;
+  <code>JavaScript</code> &bull;
+  <code>Vite</code> &bull;
+  <code>Tailwind CSS</code> &bull;
+  <code>Three.js (3D WebGL)</code> &bull;
+  <code>Redux</code> &bull;
+  <code>Framer Motion</code>
 </p>
 
 ---
 
-### 🗄️ Databases & Data Infrastructure
+### ⚙️ Backend Frameworks & Architectures
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,redis&theme=dark&perline=6" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=java,spring,fastapi,nodejs,express,prisma,hibernate,graphql&theme=dark&perline=8" alt="Backend Stack" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/FAISS_Vector_Index-00F2FE?style=flat-square&logoColor=black" alt="FAISS" />
+  <code>Spring Boot</code> &bull;
+  <code>FastAPI</code> &bull;
+  <code>Node.js</code> &bull;
+  <code>Express.js</code> &bull;
+  <code>Prisma ORM</code> &bull;
+  <code>Hibernate / JPA</code> &bull;
+  <code>GraphQL</code> &bull;
+  <code>RESTful APIs</code> &bull;
+  <code>Uvicorn</code>
 </p>
 
 ---
 
-### 🧠 AI Engineering & Machine Learning
+### 🗄️ Databases & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark&perline=6" alt="AI & ML" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,redis,dynamodb&theme=dark&perline=7" alt="Databases" />
+</p>
+<p align="center">
+  <code>PostgreSQL</code> &bull;
+  <code>MySQL</code> &bull;
+  <code>MongoDB</code> &bull;
+  <code>SQLite</code> &bull;
+  <code>Supabase</code> &bull;
+  <code>Redis</code> &bull;
+  <code>DynamoDB</code> &bull;
+  <code>DuckDB (OLAP / Parquet)</code> &bull;
+  <code>FAISS (Dense Vector Search)</code>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=38bdf8" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+---
 
+### 🧠 AI & Machine Learning Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,opencv&theme=dark&perline=5" alt="AI & ML Frameworks" />
+</p>
+<p align="center">
+  <code>LangGraph</code> &bull;
+  <code>LangChain</code> &bull;
+  <code>PyTorch</code> &bull;
+  <code>Scikit-Learn</code> &bull;
+  <code>TensorFlow</code> &bull;
+  <code>OpenCV</code> &bull;
+  <code>Hugging Face</code> &bull;
+  <code>Groq LPU API</code> &bull;
+  <code>Sentence Transformers</code> &bull;
+  <code>Pandas</code> &bull;
+  <code>NumPy</code>
+</p>
 <p align="center">
   <code>Agentic RAG</code> &bull;
   <code>Cyclic Self-Correction</code> &bull;
   <code>Split Conformal Prediction</code> &bull;
   <code>QLoRA Fine-Tuning</code> &bull;
   <code>Semantic Vector Search</code> &bull;
-  <code>Sentence Transformers</code> &bull;
   <code>EasyOCR</code> &bull;
   <code>Computer Vision</code>
 </p>
 
-<br>
+---
 
-<!-- ================================================================= -->
-<!-- AI-NATIVE DEVELOPMENT & TOOLS                                     -->
-<!-- ================================================================= -->
-
-## 🛠️ AI-Native Development & DevOps
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #1e293b; border-radius: 8px; padding: 16px;">
-
-#### ⚡ AI-Native Workflows
-- **Google Antigravity & Gemini CLI** — Advanced agentic pairing & tool automation
-- **Cursor & Claude Code** — Context-aware deep codebase orchestration
-- **GitHub Copilot** — Accelerated implementation workflows
-- **Model Context Protocol (MCP)** — Connecting LLMs to external tools, APIs, and databases
-- **Multi-Agent Systems** — Decomposing complex tasks across specialized agent graphs
-
-</td>
-<td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #1e293b; border-radius: 8px; padding: 16px;">
-
-#### ☁️ DevOps & Environment
+### ☁️ DevOps, Cloud & Operating Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,ubuntu,windows&theme=dark&perline=7" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,ubuntu,windows&theme=dark&perline=8" alt="DevOps, Cloud & OS" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <code>Git</code> &bull;
+  <code>GitHub</code> &bull;
+  <code>GitHub Actions</code> &bull;
+  <code>Docker</code> &bull;
+  <code>AWS</code> &bull;
+  <code>Linux</code> &bull;
+  <code>Ubuntu</code> &bull;
+  <code>Windows</code> &bull;
+  <code>Vercel</code> &bull;
+  <code>Render</code>
 </p>
 
-</td>
-</tr>
-</table>
+---
 
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #1e293b; border-radius: 8px; padding: 16px;">
-
-#### 🎨 Design & Prototyping
+### 🔌 Hardware, IDEs & Developer Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode&theme=dark&perline=3" alt="Design & Tools" />
+  <img src="https://skillicons.dev/icons?i=arduino,figma,postman,vscode,idea,eclipse&theme=dark&perline=6" alt="Tools & Hardware" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Stitch" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <code>Arduino</code> &bull;
+  <code>Figma</code> &bull;
+  <code>Postman</code> &bull;
+  <code>VS Code</code> &bull;
+  <code>IntelliJ IDEA</code> &bull;
+  <code>Eclipse</code> &bull;
+  <code>Wireshark</code> &bull;
+  <code>Google Antigravity</code> &bull;
+  <code>Cursor</code> &bull;
+  <code>Model Context Protocol (MCP)</code>
 </p>
-
-</td>
-<td width="50%" valign="top" bgcolor="#0d1117" style="border: 1px solid #1e293b; border-radius: 8px; padding: 16px;">
-
-#### 🔌 Systems, Hardware & Networking
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,ubuntu,windows&theme=dark&perline=3" alt="Hardware" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/POSIX_Threads-0055FF?style=flat-square&logoColor=white" alt="POSIX" />
-  <img src="https://img.shields.io/badge/TCP%2FIP_Sockets-10B981?style=flat-square&logoColor=white" alt="Sockets" />
-</p>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -421,13 +410,11 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
 Enhances robotic spatial SLAM by integrating scene-text comprehension into semantic mapping. Detects environmental text with EasyOCR, eliminates OCR noise via Text Error Correction & Classification (TECC), enriches understanding with FAISS vector RAG, and builds a queryable semantic map.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="28" />
-  <img src="https://img.shields.io/badge/EasyOCR-OpenCV-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/FAISS-RAG-00f2fe?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,opencv&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** Real-time OCR correction pipeline, dense vector knowledge retrieval, spatial semantic map generation.
-- **Technologies:** `Python` &bull; `FastAPI` &bull; `EasyOCR` &bull; `FAISS` &bull; `RAG` &bull; `Sentence Transformers`
+- **Technologies:** `Python` &bull; `FastAPI` &bull; `EasyOCR` &bull; `OpenCV` &bull; `FAISS` &bull; `RAG` &bull; `Sentence Transformers`
 
 <p align="right"><a href="https://github.com/ysujith728/LP-SLAM-TECC"><b>Explore Repository &rarr;</b></a></p>
 
@@ -441,10 +428,7 @@ Enhances robotic spatial SLAM by integrating scene-text comprehension into seman
 Agentic reasoning system built with LangGraph to orchestrate complex analytical tasks over massive open datasets. Dispatches multi-tool ReAct loops over DuckDB for high-speed SQL analytics across millions of taxi trips, performs FAISS vector search on metadata PDFs, and logs executions.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="28" />
-  <img src="https://img.shields.io/badge/LangGraph-Agentic-1C3C3C?style=flat-square&logo=langchain&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/DuckDB-OLAP-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Groq-LPU-F55036?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** ReAct tool orchestration, dynamic SQL over Parquet, conversational memory, 100% test evaluation harness.
@@ -465,10 +449,7 @@ Agentic reasoning system built with LangGraph to orchestrate complex analytical 
 Safety-critical Clinical Decision Support (CDS) architecture guarding against LLM hallucinations. Employs a compiled cyclic LangGraph state machine that extracts factual claims, validates against medical texts, self-corrects invalid assertions, and applies a Split Conformal Prediction abstention gate.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="28" />
-  <img src="https://img.shields.io/badge/LangGraph-Cyclic_Loop-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/QLoRA-Fine_Tuning-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Conformal-Safety_Gate-10b981?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** Cyclic claim verification, mathematical safety guarantees ($1 - \alpha$), QLoRA fine-tuning, multi-hop retrieval.
@@ -486,7 +467,7 @@ Safety-critical Clinical Decision Support (CDS) architecture guarding against LL
 A full-stack platform enabling users to navigate an interactive 3D WebGL globe, click any territory, and instantly stream live radio broadcasts. Engineered with TOTP-based two-factor authentication, personal favorite feeds, and listening history tracking.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,prisma,sqlite,tailwind,threejs&theme=dark" height="28" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,prisma,sqlite,tailwind,threejs&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** Interactive 3D globe rendering in Three.js, secure authentication with TOTP 2FA, Prisma ORM database layer.
@@ -507,9 +488,7 @@ A full-stack platform enabling users to navigate an interactive 3D WebGL globe, 
 Intelligent document question-answering system capable of ingesting 300+ page enterprise PDFs. Deconstructs text into semantically cohesive chunks, generates dense vector representations with Sentence Transformers, indexes via FAISS, and streams sub-second answers using Groq LPU models.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" height="28" />
-  <img src="https://img.shields.io/badge/Groq_API-Ultra_Fast-F55036?style=flat-square&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-Dense_Search-00f2fe?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** High-throughput PDF extraction (`pdfplumber`/`PyPDF2`), vector similarity matching, low-latency LLM responses.
@@ -527,7 +506,7 @@ Intelligent document question-answering system capable of ingesting 300+ page en
 Full-stack travel intelligence application discovering every viable transit combination between destinations — direct flights, trains, connecting hubs, and mixed flight+train legs. Evaluates cost vs. duration tradeoffs, calculates accommodation budgets, and generates Gemini AI travel insights.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,vite&theme=dark" height="28" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,vite&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** Multimodal transit algorithms, animated ant-path CartoDB routes, Gemini travel insights, Haversine fallback distance math.
@@ -548,9 +527,7 @@ Full-stack travel intelligence application discovering every viable transit comb
 Natural Language Processing web system verifying scientific assertions against biomedical evidence. Evaluates claim veracity by retrieving relevant research and classifying statements as *Supported*, *Contradicted*, or *Not Enough Info* inside a modern reactive UI.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" height="28" />
-  <img src="https://img.shields.io/badge/Framer_Motion-Smooth_UI-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Claim_Check-10b981?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** SciFact-inspired dataset parsing, semantic evidence retrieval, fluid animated user interface.
@@ -568,10 +545,7 @@ Natural Language Processing web system verifying scientific assertions against b
 Enterprise logistics simulation modeling autonomous drone fleet scheduling. Leverages foundational data structures and algorithms — graph routing, priority dispatch queues, linked structures, and load-balancing heuristics to optimize package turnaround times.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="28" />
-  <img src="https://img.shields.io/badge/Architecture-Object_Oriented-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Algorithms-Graph_Routing-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Structures-Priority_Queues-green?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=java,idea,eclipse&theme=dark" height="36" alt="Tech Stack" />
 </p>
 
 - **Key Highlights:** Autonomous scheduling logic, graph-based flight path planning, priority drone allocation heuristics.
