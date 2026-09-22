@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0a1122"/>
+      <stop offset="100%" stop-color="#080c16"/>
+    </linearGradient>
+    <linearGradient id="cyan-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="purple-pink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.7" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="2" y="2" width="946" height="196" rx="14" fill="url(#bg)" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="2" y="2" width="946" height="196" rx="14" fill="url(#grid)"/>
+
+  <!-- Top Accent Line -->
+  <path d="M 16 3 L 934 3" stroke="url(#cyan-blue)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Terminal Dots -->
+  <circle cx="28" cy="24" r="5" fill="#ef4444" opacity="0.8"/>
+  <circle cx="44" cy="24" r="5" fill="#eab308" opacity="0.8"/>
+  <circle cx="60" cy="24" r="5" fill="#22c55e" opacity="0.8"/>
+  
+  <text x="82" y="28" fill="#64748b" font-family="monospace" font-size="11" letter-spacing="1">DEVELOPER_WORKSPACE // SYSTEM_STATUS: OPERATIONAL</text>
+
+  <!-- Main Headline -->
+  <text x="475" y="96" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" text-anchor="middle" letter-spacing="1.5">
+    SRI SAI SUJITH
+  </text>
+
+  <!-- Subtitle with Gradient Pill -->
+  <rect x="205" y="118" width="540" height="30" rx="15" fill="#0f172a" stroke="url(#cyan-blue)" stroke-width="1"/>
+  <text x="475" y="138" fill="url(#cyan-blue)" font-family="monospace" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.2">
+    FULL-STACK DEVELOPER • AI ENGINEER • AGENT BUILDER
+  </text>
+
+  <!-- Bottom Details -->
+  <text x="475" y="174" fill="#94a3b8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle" letter-spacing="0.5">
+    Autonomous Agents &amp; RAG Systems • Java &amp; Python Backend • Interactive Modern Web Architecture
+  </text>
+</svg>
