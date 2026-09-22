@@ -247,7 +247,7 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
 <br>
 
 <!-- ================================================================= -->
-<!-- TECH STACK — UNIFORM ROUNDED DARK ICON SYSTEM                     -->
+<!-- TECH STACK — UNIFIED ROUNDED DARK ICON SYSTEM                     -->
 <!-- ================================================================= -->
 
 ## 💻 Tech Stack
@@ -276,6 +276,11 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,threejs,redux,html,css&theme=dark&perline=8" alt="Frontend Stack" />
 </p>
 <p align="center">
+  <img src="assets/icons/framermotion.svg" width="48" height="48" alt="Framer Motion" title="Framer Motion" />
+  &nbsp;
+  <img src="assets/icons/shadcnui.svg" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" />
+</p>
+<p align="center">
   <code>React 18/19</code> &bull;
   <code>Next.js</code> &bull;
   <code>TypeScript</code> &bull;
@@ -284,7 +289,8 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <code>Tailwind CSS</code> &bull;
   <code>Three.js (3D WebGL)</code> &bull;
   <code>Redux</code> &bull;
-  <code>Framer Motion</code>
+  <code>Framer Motion</code> &bull;
+  <code>shadcn/ui</code>
 </p>
 
 ---
@@ -294,6 +300,9 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=java,spring,fastapi,nodejs,express,prisma,hibernate,graphql&theme=dark&perline=8" alt="Backend Stack" />
 </p>
 <p align="center">
+  <img src="assets/icons/flask.svg" width="48" height="48" alt="Flask" title="Flask" />
+</p>
+<p align="center">
   <code>Spring Boot</code> &bull;
   <code>FastAPI</code> &bull;
   <code>Node.js</code> &bull;
@@ -301,6 +310,7 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <code>Prisma ORM</code> &bull;
   <code>Hibernate / JPA</code> &bull;
   <code>GraphQL</code> &bull;
+  <code>Flask</code> &bull;
   <code>RESTful APIs</code> &bull;
   <code>Uvicorn</code>
 </p>
@@ -312,6 +322,11 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,redis,dynamodb&theme=dark&perline=7" alt="Databases" />
 </p>
 <p align="center">
+  <img src="assets/icons/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB" />
+  &nbsp;
+  <img src="assets/icons/faiss.svg" width="48" height="48" alt="FAISS" title="FAISS" />
+</p>
+<p align="center">
   <code>PostgreSQL</code> &bull;
   <code>MySQL</code> &bull;
   <code>MongoDB</code> &bull;
@@ -319,15 +334,34 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <code>Supabase</code> &bull;
   <code>Redis</code> &bull;
   <code>DynamoDB</code> &bull;
-  <code>DuckDB (OLAP / Parquet)</code> &bull;
-  <code>FAISS (Dense Vector Search)</code>
+  <code>DuckDB (In-Memory OLAP)</code> &bull;
+  <code>FAISS (Vector Index)</code>
 </p>
 
 ---
 
-### 🧠 AI & Machine Learning Frameworks
+### 🧠 AI, Agentic & Machine Learning Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,opencv&theme=dark&perline=5" alt="AI & ML Frameworks" />
+</p>
+<p align="center">
+  <img src="assets/icons/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" />
+  &nbsp;
+  <img src="assets/icons/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain" />
+  &nbsp;
+  <img src="assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
+  &nbsp;
+  <img src="assets/icons/groq.svg" width="48" height="48" alt="Groq LPU" title="Groq" />
+  &nbsp;
+  <img src="assets/icons/faiss.svg" width="48" height="48" alt="FAISS" title="FAISS" />
+  &nbsp;
+  <img src="assets/icons/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB" />
+  &nbsp;
+  <img src="assets/icons/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img src="assets/icons/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  &nbsp;
+  <img src="assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
 </p>
 <p align="center">
   <code>LangGraph</code> &bull;
@@ -340,23 +374,27 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <code>Groq LPU API</code> &bull;
   <code>Sentence Transformers</code> &bull;
   <code>Pandas</code> &bull;
-  <code>NumPy</code>
+  <code>NumPy</code> &bull;
+  <code>Streamlit</code>
 </p>
 <p align="center">
   <code>Agentic RAG</code> &bull;
-  <code>Cyclic Self-Correction</code> &bull;
+  <code>Cyclic Claim Correction</code> &bull;
   <code>Split Conformal Prediction</code> &bull;
   <code>QLoRA Fine-Tuning</code> &bull;
-  <code>Semantic Vector Search</code> &bull;
+  <code>Dense Semantic Search</code> &bull;
   <code>EasyOCR</code> &bull;
   <code>Computer Vision</code>
 </p>
 
 ---
 
-### ☁️ DevOps, Cloud & Operating Systems
+### ☁️ DevOps, Cloud & Networking
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,ubuntu,windows&theme=dark&perline=8" alt="DevOps, Cloud & OS" />
+</p>
+<p align="center">
+  <img src="assets/icons/wireshark.svg" width="48" height="48" alt="Wireshark" title="Wireshark" />
 </p>
 <p align="center">
   <code>Git</code> &bull;
@@ -367,15 +405,18 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <code>Linux</code> &bull;
   <code>Ubuntu</code> &bull;
   <code>Windows</code> &bull;
-  <code>Vercel</code> &bull;
-  <code>Render</code>
+  <code>Wireshark</code> &bull;
+  <code>TCP/IP Sockets</code>
 </p>
 
 ---
 
-### 🔌 Hardware, IDEs & Developer Tools
+### 🔌 Hardware, IDEs & AI-Native Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,figma,postman,vscode,idea,eclipse&theme=dark&perline=6" alt="Tools & Hardware" />
+</p>
+<p align="center">
+  <img src="assets/icons/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor" />
 </p>
 <p align="center">
   <code>Arduino</code> &bull;
@@ -384,9 +425,8 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <code>VS Code</code> &bull;
   <code>IntelliJ IDEA</code> &bull;
   <code>Eclipse</code> &bull;
-  <code>Wireshark</code> &bull;
-  <code>Google Antigravity</code> &bull;
   <code>Cursor</code> &bull;
+  <code>Google Antigravity</code> &bull;
   <code>Model Context Protocol (MCP)</code>
 </p>
 
@@ -410,7 +450,9 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
 Enhances robotic spatial SLAM by integrating scene-text comprehension into semantic mapping. Detects environmental text with EasyOCR, eliminates OCR noise via Text Error Correction & Classification (TECC), enriches understanding with FAISS vector RAG, and builds a queryable semantic map.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,opencv&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,opencv&theme=dark" height="36" alt="Core Stack" />
+  <img src="assets/icons/faiss.svg" width="36" height="36" alt="FAISS" />
+  <img src="assets/icons/huggingface.svg" width="36" height="36" alt="Hugging Face" />
 </p>
 
 - **Key Highlights:** Real-time OCR correction pipeline, dense vector knowledge retrieval, spatial semantic map generation.
@@ -428,7 +470,12 @@ Enhances robotic spatial SLAM by integrating scene-text comprehension into seman
 Agentic reasoning system built with LangGraph to orchestrate complex analytical tasks over massive open datasets. Dispatches multi-tool ReAct loops over DuckDB for high-speed SQL analytics across millions of taxi trips, performs FAISS vector search on metadata PDFs, and logs executions.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="36" alt="Core Stack" />
+  <img src="assets/icons/langgraph.svg" width="36" height="36" alt="LangGraph" />
+  <img src="assets/icons/langchain.svg" width="36" height="36" alt="LangChain" />
+  <img src="assets/icons/duckdb.svg" width="36" height="36" alt="DuckDB" />
+  <img src="assets/icons/groq.svg" width="36" height="36" alt="Groq" />
+  <img src="assets/icons/pandas.svg" width="36" height="36" alt="Pandas" />
 </p>
 
 - **Key Highlights:** ReAct tool orchestration, dynamic SQL over Parquet, conversational memory, 100% test evaluation harness.
@@ -449,7 +496,10 @@ Agentic reasoning system built with LangGraph to orchestrate complex analytical 
 Safety-critical Clinical Decision Support (CDS) architecture guarding against LLM hallucinations. Employs a compiled cyclic LangGraph state machine that extracts factual claims, validates against medical texts, self-corrects invalid assertions, and applies a Split Conformal Prediction abstention gate.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" height="36" alt="Core Stack" />
+  <img src="assets/icons/langgraph.svg" width="36" height="36" alt="LangGraph" />
+  <img src="assets/icons/faiss.svg" width="36" height="36" alt="FAISS" />
+  <img src="assets/icons/streamlit.svg" width="36" height="36" alt="Streamlit" />
 </p>
 
 - **Key Highlights:** Cyclic claim verification, mathematical safety guarantees ($1 - \alpha$), QLoRA fine-tuning, multi-hop retrieval.
@@ -467,7 +517,7 @@ Safety-critical Clinical Decision Support (CDS) architecture guarding against LL
 A full-stack platform enabling users to navigate an interactive 3D WebGL globe, click any territory, and instantly stream live radio broadcasts. Engineered with TOTP-based two-factor authentication, personal favorite feeds, and listening history tracking.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,prisma,sqlite,tailwind,threejs&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,prisma,sqlite,tailwind,threejs&theme=dark" height="36" alt="Core Stack" />
 </p>
 
 - **Key Highlights:** Interactive 3D globe rendering in Three.js, secure authentication with TOTP 2FA, Prisma ORM database layer.
@@ -488,7 +538,11 @@ A full-stack platform enabling users to navigate an interactive 3D WebGL globe, 
 Intelligent document question-answering system capable of ingesting 300+ page enterprise PDFs. Deconstructs text into semantically cohesive chunks, generates dense vector representations with Sentence Transformers, indexes via FAISS, and streams sub-second answers using Groq LPU models.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" alt="Python" />
+  <img src="assets/icons/flask.svg" width="36" height="36" alt="Flask" />
+  <img src="assets/icons/groq.svg" width="36" height="36" alt="Groq" />
+  <img src="assets/icons/faiss.svg" width="36" height="36" alt="FAISS" />
+  <img src="assets/icons/numpy.svg" width="36" height="36" alt="NumPy" />
 </p>
 
 - **Key Highlights:** High-throughput PDF extraction (`pdfplumber`/`PyPDF2`), vector similarity matching, low-latency LLM responses.
@@ -506,7 +560,7 @@ Intelligent document question-answering system capable of ingesting 300+ page en
 Full-stack travel intelligence application discovering every viable transit combination between destinations — direct flights, trains, connecting hubs, and mixed flight+train legs. Evaluates cost vs. duration tradeoffs, calculates accommodation budgets, and generates Gemini AI travel insights.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,vite&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,vite&theme=dark" height="36" alt="Core Stack" />
 </p>
 
 - **Key Highlights:** Multimodal transit algorithms, animated ant-path CartoDB routes, Gemini travel insights, Haversine fallback distance math.
@@ -527,7 +581,8 @@ Full-stack travel intelligence application discovering every viable transit comb
 Natural Language Processing web system verifying scientific assertions against biomedical evidence. Evaluates claim veracity by retrieving relevant research and classifying statements as *Supported*, *Contradicted*, or *Not Enough Info* inside a modern reactive UI.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" height="36" alt="Core Stack" />
+  <img src="assets/icons/framermotion.svg" width="36" height="36" alt="Framer Motion" />
 </p>
 
 - **Key Highlights:** SciFact-inspired dataset parsing, semantic evidence retrieval, fluid animated user interface.
@@ -545,7 +600,7 @@ Natural Language Processing web system verifying scientific assertions against b
 Enterprise logistics simulation modeling autonomous drone fleet scheduling. Leverages foundational data structures and algorithms — graph routing, priority dispatch queues, linked structures, and load-balancing heuristics to optimize package turnaround times.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,idea,eclipse&theme=dark" height="36" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,idea,eclipse&theme=dark" height="36" alt="Core Stack" />
 </p>
 
 - **Key Highlights:** Autonomous scheduling logic, graph-based flight path planning, priority drone allocation heuristics.

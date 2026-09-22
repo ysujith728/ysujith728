@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <!-- LangGraph Node Graph -->
+  <g transform="translate(48, 48)">
+    <line x1="30" y1="80" x2="80" y2="30" stroke="#38bdf8" stroke-width="8" stroke-linecap="round"/>
+    <line x1="80" y1="30" x2="130" y2="80" stroke="#00f2fe" stroke-width="8" stroke-linecap="round"/>
+    <line x1="80" y1="30" x2="80" y2="130" stroke="#818cf8" stroke-width="8" stroke-linecap="round"/>
+    <line x1="30" y1="80" x2="80" y2="130" stroke="#38bdf8" stroke-width="8" stroke-linecap="round"/>
+    <line x1="130" y1="80" x2="80" y2="130" stroke="#00f2fe" stroke-width="8" stroke-linecap="round"/>
+    
+    <circle cx="80" cy="30" r="18" fill="#38bdf8"/>
+    <circle cx="30" cy="80" r="16" fill="#818cf8"/>
+    <circle cx="130" cy="80" r="16" fill="#00f2fe"/>
+    <circle cx="80" cy="130" r="18" fill="#a855f7"/>
+  </g>
+</svg>

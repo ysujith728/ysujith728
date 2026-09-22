@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <!-- FAISS Dense Vector Clusters -->
+  <g transform="translate(50, 50)">
+    <path d="M 30 110 L 80 40 L 130 110 Z" fill="none" stroke="#00f2fe" stroke-width="7" stroke-linejoin="round"/>
+    <circle cx="80" cy="40" r="14" fill="#00f2fe"/>
+    <circle cx="30" cy="110" r="12" fill="#38bdf8"/>
+    <circle cx="130" cy="110" r="12" fill="#38bdf8"/>
+    <circle cx="80" cy="85" r="10" fill="#ffffff"/>
+    <line x1="80" y1="40" x2="80" y2="85" stroke="#ffffff" stroke-width="5"/>
+    <line x1="30" y1="110" x2="80" y2="85" stroke="#ffffff" stroke-width="5"/>
+    <line x1="130" y1="110" x2="80" y2="85" stroke="#ffffff" stroke-width="5"/>
+  </g>
+</svg>

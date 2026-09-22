@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <g transform="translate(48, 48) scale(6.666)">
+    <svg viewBox="0 0 24 24" width="24" height="24">
+      <title>Framer</title><path d="M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z"/>
+    </svg>
+  </g>
+</svg>
