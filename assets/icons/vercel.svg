@@ -2,7 +2,7 @@
   <rect width="256" height="256" fill="#242938" rx="60"/>
   <g transform="translate(48, 48) scale(6.666)">
     <svg viewBox="0 0 24 24" width="24" height="24">
-      <path d="M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z" fill="#0055FF"/>
+      <path d="m12 1.608 12 20.784H0Z" fill="#FFFFFF"/>
     </svg>
   </g>
 </svg>

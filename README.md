@@ -276,9 +276,9 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,threejs,redux,html,css&theme=dark&perline=8" alt="Frontend Stack" />
 </p>
 <p align="center">
-  <img src="assets/icons/framermotion.svg" width="48" height="48" alt="Framer Motion" title="Framer Motion" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/framermotion.svg" width="48" height="48" alt="Framer Motion" title="Framer Motion" />
   &nbsp;
-  <img src="assets/icons/shadcnui.svg" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/shadcnui.svg" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" />
 </p>
 <p align="center">
   <code>React 18/19</code> &bull;
@@ -300,7 +300,7 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=java,spring,fastapi,nodejs,express,prisma,hibernate,graphql&theme=dark&perline=8" alt="Backend Stack" />
 </p>
 <p align="center">
-  <img src="assets/icons/flask.svg" width="48" height="48" alt="Flask" title="Flask" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/flask.svg" width="48" height="48" alt="Flask" title="Flask" />
 </p>
 <p align="center">
   <code>Spring Boot</code> &bull;
@@ -322,9 +322,9 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,redis,dynamodb&theme=dark&perline=7" alt="Databases" />
 </p>
 <p align="center">
-  <img src="assets/icons/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB" />
   &nbsp;
-  <img src="assets/icons/faiss.svg" width="48" height="48" alt="FAISS" title="FAISS" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/faiss.svg" width="48" height="48" alt="FAISS" title="FAISS" />
 </p>
 <p align="center">
   <code>PostgreSQL</code> &bull;
@@ -345,23 +345,23 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,opencv&theme=dark&perline=5" alt="AI & ML Frameworks" />
 </p>
 <p align="center">
-  <img src="assets/icons/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" />
   &nbsp;
-  <img src="assets/icons/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain" />
   &nbsp;
-  <img src="assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
   &nbsp;
-  <img src="assets/icons/groq.svg" width="48" height="48" alt="Groq LPU" title="Groq" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/groq.svg" width="48" height="48" alt="Groq LPU" title="Groq" />
   &nbsp;
-  <img src="assets/icons/faiss.svg" width="48" height="48" alt="FAISS" title="FAISS" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/faiss.svg" width="48" height="48" alt="FAISS" title="FAISS" />
   &nbsp;
-  <img src="assets/icons/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB" />
   &nbsp;
-  <img src="assets/icons/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas" />
   &nbsp;
-  <img src="assets/icons/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
   &nbsp;
-  <img src="assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
 </p>
 <p align="center">
   <code>LangGraph</code> &bull;
@@ -394,7 +394,11 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,ubuntu,windows&theme=dark&perline=8" alt="DevOps, Cloud & OS" />
 </p>
 <p align="center">
-  <img src="assets/icons/wireshark.svg" width="48" height="48" alt="Wireshark" title="Wireshark" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/vercel.svg" width="48" height="48" alt="Vercel" title="Vercel" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/render.svg" width="48" height="48" alt="Render" title="Render" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/wireshark.svg" width="48" height="48" alt="Wireshark" title="Wireshark" />
 </p>
 <p align="center">
   <code>Git</code> &bull;
@@ -402,6 +406,8 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <code>GitHub Actions</code> &bull;
   <code>Docker</code> &bull;
   <code>AWS</code> &bull;
+  <code>Vercel</code> &bull;
+  <code>Render</code> &bull;
   <code>Linux</code> &bull;
   <code>Ubuntu</code> &bull;
   <code>Windows</code> &bull;
@@ -416,7 +422,7 @@ Agentic AI is more than prompting — it is about **state orchestration, reliabl
   <img src="https://skillicons.dev/icons?i=arduino,figma,postman,vscode,idea,eclipse&theme=dark&perline=6" alt="Tools & Hardware" />
 </p>
 <p align="center">
-  <img src="assets/icons/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor" />
 </p>
 <p align="center">
   <code>Arduino</code> &bull;
@@ -451,8 +457,8 @@ Enhances robotic spatial SLAM by integrating scene-text comprehension into seman
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,opencv&theme=dark" height="36" alt="Core Stack" />
-  <img src="assets/icons/faiss.svg" width="36" height="36" alt="FAISS" />
-  <img src="assets/icons/huggingface.svg" width="36" height="36" alt="Hugging Face" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/faiss.svg" width="36" height="36" alt="FAISS" title="FAISS" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/huggingface.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
 </p>
 
 - **Key Highlights:** Real-time OCR correction pipeline, dense vector knowledge retrieval, spatial semantic map generation.
@@ -471,11 +477,11 @@ Agentic reasoning system built with LangGraph to orchestrate complex analytical 
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="36" alt="Core Stack" />
-  <img src="assets/icons/langgraph.svg" width="36" height="36" alt="LangGraph" />
-  <img src="assets/icons/langchain.svg" width="36" height="36" alt="LangChain" />
-  <img src="assets/icons/duckdb.svg" width="36" height="36" alt="DuckDB" />
-  <img src="assets/icons/groq.svg" width="36" height="36" alt="Groq" />
-  <img src="assets/icons/pandas.svg" width="36" height="36" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/langgraph.svg" width="36" height="36" alt="LangGraph" title="LangGraph" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/langchain.svg" width="36" height="36" alt="LangChain" title="LangChain" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/duckdb.svg" width="36" height="36" alt="DuckDB" title="DuckDB" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/groq.svg" width="36" height="36" alt="Groq" title="Groq" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/pandas.svg" width="36" height="36" alt="Pandas" title="Pandas" />
 </p>
 
 - **Key Highlights:** ReAct tool orchestration, dynamic SQL over Parquet, conversational memory, 100% test evaluation harness.
@@ -497,9 +503,9 @@ Safety-critical Clinical Decision Support (CDS) architecture guarding against LL
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" height="36" alt="Core Stack" />
-  <img src="assets/icons/langgraph.svg" width="36" height="36" alt="LangGraph" />
-  <img src="assets/icons/faiss.svg" width="36" height="36" alt="FAISS" />
-  <img src="assets/icons/streamlit.svg" width="36" height="36" alt="Streamlit" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/langgraph.svg" width="36" height="36" alt="LangGraph" title="LangGraph" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/faiss.svg" width="36" height="36" alt="FAISS" title="FAISS" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/streamlit.svg" width="36" height="36" alt="Streamlit" title="Streamlit" />
 </p>
 
 - **Key Highlights:** Cyclic claim verification, mathematical safety guarantees ($1 - \alpha$), QLoRA fine-tuning, multi-hop retrieval.
@@ -539,10 +545,10 @@ Intelligent document question-answering system capable of ingesting 300+ page en
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" alt="Python" />
-  <img src="assets/icons/flask.svg" width="36" height="36" alt="Flask" />
-  <img src="assets/icons/groq.svg" width="36" height="36" alt="Groq" />
-  <img src="assets/icons/faiss.svg" width="36" height="36" alt="FAISS" />
-  <img src="assets/icons/numpy.svg" width="36" height="36" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/flask.svg" width="36" height="36" alt="Flask" title="Flask" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/groq.svg" width="36" height="36" alt="Groq" title="Groq" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/faiss.svg" width="36" height="36" alt="FAISS" title="FAISS" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/numpy.svg" width="36" height="36" alt="NumPy" title="NumPy" />
 </p>
 
 - **Key Highlights:** High-throughput PDF extraction (`pdfplumber`/`PyPDF2`), vector similarity matching, low-latency LLM responses.
@@ -582,11 +588,12 @@ Natural Language Processing web system verifying scientific assertions against b
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" height="36" alt="Core Stack" />
-  <img src="assets/icons/framermotion.svg" width="36" height="36" alt="Framer Motion" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/framermotion.svg" width="36" height="36" alt="Framer Motion" title="Framer Motion" />
+  <img src="https://raw.githubusercontent.com/ysujith728/ysujith728/main/assets/icons/shadcnui.svg" width="36" height="36" alt="shadcn/ui" title="shadcn/ui" />
 </p>
 
 - **Key Highlights:** SciFact-inspired dataset parsing, semantic evidence retrieval, fluid animated user interface.
-- **Technologies:** `TypeScript` &bull; `React 19` &bull; `Vite` &bull; `Tailwind CSS` &bull; `Framer Motion` &bull; `NLP` &bull; `Semantic Search`
+- **Technologies:** `TypeScript` &bull; `React 19` &bull; `Vite` &bull; `Tailwind CSS` &bull; `Framer Motion` &bull; `shadcn/ui` &bull; `NLP` &bull; `Semantic Search`
 
 <p align="right"><a href="https://github.com/ysujith728/SciVerify"><b>Explore Repository &rarr;</b></a></p>
 
